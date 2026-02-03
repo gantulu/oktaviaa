@@ -1,0 +1,7 @@
+{
+  "name": "OktaviaStore",
+  "description": "A premium mobile-first fashion e-commerce store featuring a product catalog, interactive cart drawer, and user profile management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
